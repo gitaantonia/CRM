@@ -1,0 +1,10 @@
+{
+  "description": "A multi-outlet CRM for Cafe Limitless to manage customer relationships, campaigns, rewards, feedback, events, and historical demand in one place.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
